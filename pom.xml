@@ -28,7 +28,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>MainVillage</mainClass>
+              <mainClass>test.MainVillage</mainClass>
             </manifest>
           </archive>
         </configuration>
